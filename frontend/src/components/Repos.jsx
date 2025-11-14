@@ -5,7 +5,10 @@ const Repos = ({ repos }) => {
     console.log(repos);
     
   return (
-    <div>Repos</div>
+      <>
+      
+        
+      </>
   )
 }
 
